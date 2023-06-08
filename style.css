@@ -1,6 +1,6 @@
 .head-bg{
     background-image: url(./images/wallpaper.com);
-    height: 90vh ;
+    height: 80vh ;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -101,7 +101,7 @@ h2{
 
 
 .foot-bg{
-    background-color: aliceblue;
+    
     height: 50vh ;
     display: flex;
     align-items: center;

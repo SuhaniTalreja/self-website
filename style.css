@@ -1,0 +1,117 @@
+.head-bg{
+    background-image: url(./images/wallpaper.com);
+    height: 90vh ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.self-img{
+    border-radius: 50%;
+}
+
+h2 , h1 {
+    color: whitesmoke;
+}
+
+h1{
+    font-family: 'Lobster Two', cursive;
+    
+}
+h2{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+
+#intro h1{
+    color: #003366;
+}
+
+#intro p{
+    color: #1034a6;
+    margin: 40px;
+    margin-bottom: 50px;
+    font-size: 1.5rem;
+    font-family: 'Inter', sans-serif;
+}
+
+#skills h1{
+    color: #003366;
+    text-align: center;
+}
+
+#skills h4{
+    color: #1034a6;
+    text-align: center;
+}
+
+#skills button{
+    text-align: center;
+    color: #003366;
+    width: 500px;
+    height: 80px;
+    border-radius: 5px;
+}
+
+.res-btn{
+    
+    justify-content: center;
+    text-align: center;
+}
+
+.btn h4{
+    font-family: 'Inter', sans-serif;
+}
+
+#portfolio h1{
+    color: #003366;
+    text-align: center;
+}
+
+#portfolio h2{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: #003366;
+    text-align: center;
+    padding: 30px;
+}
+
+#portfolio h4{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: #3884d0;
+    text-align: center;
+    padding: 50px;
+}
+
+#contact h1{
+    color: #003366;
+    text-align: center;
+    padding: 30px;
+}
+
+#contact h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: #003366;
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 40px;
+}
+
+
+.foot-bg{
+    background-color: aliceblue;
+    height: 70vh ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer p{
+    color: #003366;
+    font-size:20px;
+    font-weight: 400;
+}
+
+

@@ -48,7 +48,7 @@ h2{
 #skills button{
     text-align: center;
     color: #003366;
-    width: 500px;
+    width: 400px;
     height: 80px;
     border-radius: 5px;
 }
@@ -106,6 +106,7 @@ h2{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 30px;
 }
 
 #footer p{

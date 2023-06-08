@@ -109,6 +109,10 @@ h2{
     padding-top: 30px;
 }
 
+#footer{
+    background-image: url(./images/wallpaper.com);
+}
+    
 #footer p{
     color: #003366;
     font-size:20px;
